@@ -1,0 +1,3 @@
+/Users/stepan/Desktop/gitFlow/microproject/build/CMakeFiles/exec.dir
+/Users/stepan/Desktop/gitFlow/microproject/build/CMakeFiles/edit_cache.dir
+/Users/stepan/Desktop/gitFlow/microproject/build/CMakeFiles/rebuild_cache.dir
